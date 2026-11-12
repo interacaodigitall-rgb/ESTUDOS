@@ -1,0 +1,8 @@
+{
+  "name": "3.º Primaria",
+  "description": "Aplicación de estudo e quiz interactivo de Ciencias da Natureza para 3.º de Primaria en Galicia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
